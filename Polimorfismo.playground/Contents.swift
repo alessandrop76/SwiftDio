@@ -8,7 +8,7 @@ class Player {
     }
     
     func play(){
-        ("O jogador está jogando")
+        
     }
 }
 
