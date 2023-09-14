@@ -143,8 +143,3 @@ print("Receita: \(ckpie.name) \nTipo: \(ckpie.type) \nNível de dificuldade: \(c
 print("\nTotal de itens: \(ckpie.getTotalQuantity())")
 print("Peso Total dos itens: \(ckpie.getTotalWeight())")
 print("...............................................\n")
-
-struct RecipeBook {
-    var recipe = Recipe
-    var ingredients = IngredientsList
-}
